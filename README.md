@@ -1,0 +1,1 @@
+1. with using [ip2location](http://www.ip2location.com/) database to detect if an IP address is in China region. 
